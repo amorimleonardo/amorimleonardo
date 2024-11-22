@@ -16,9 +16,9 @@
         </p>
         <ul>
             <li>🌱 <b>Onde trabalho atualmente</b>: Grupo Casas Bahia <s>antiga Via e ViaVarejo</s> (Casas Bahia, Ponto Frio, Extra.com.br).</li>
-            <li>🎯 <b>Estou aprendendo sobre</b>: Liderança, mentoria e como ser pai😂 </li>
+            <li>🎯 <b>Estou aprendendo sobre</b>: Liderança, mentoria e como ser pai 😂 </li>
             <li>📫 <b>Como me encontrar</b>: Acesse meu LinkedIn mais acima 👆, além de me seguir por aqui.</li>
-            <li>😄 <b>Meus hobbies</b>: Apaixonado por carros(🚗), Tecnologia(💻), Viajar(🌍), e Música(🎸).</li>
+            <li>😄 <b>Meus hobbies</b>: Apaixonado por carros(🚗), Tecnologia(💻), Viajar(🌍) e Música(🎸).</li>
         </ul>
     </div>
     <div align=center>
