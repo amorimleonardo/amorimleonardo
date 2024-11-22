@@ -3,7 +3,7 @@
         <h2>Olá, eu sou o Leonardo Amorim! 🔥</h2>
     </div>
     <div align=center>
-        <a href="https://www.linkedin.com/in/leonardo-amorim-de-oliveira-18a789106/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
+        <a href="https://www.linkedin.com/in/leonardo-amorim-de-oliveira-18a789106/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
     </div>
     <div align=left>
         <br>
@@ -15,8 +15,8 @@
             </strong>
         </p>
         <ul>
-            <li>🌱 <b>Atualmente estou trabalhando no</b>: Grupo Casas Bahia <s>antiga Via e ViaVarejo</s> (Casas Bahia, Ponto Frio, Extra.com.br).</li>
-            <li>🎯 <b>Estou aprendendo sobre</b>: Liderança, mentoria e como ser pai </li>
+            <li>🌱 <b>Onde trabalho atualmente</b>: Grupo Casas Bahia <s>antiga Via e ViaVarejo</s> (Casas Bahia, Ponto Frio, Extra.com.br).</li>
+            <li>🎯 <b>Estou aprendendo sobre</b>: Liderança, mentoria e como ser pai😂 </li>
             <li>📫 <b>Como me encontrar</b>: Acesse meu LinkedIn mais acima 👆, além de me seguir por aqui.</li>
             <li>😄 <b>Meus hobbies</b>: Apaixonado por carros(🚗), Tecnologia(💻), Viajar(🌍), e Música(🎸).</li>
         </ul>
