@@ -9,7 +9,7 @@
         <br>
         <p>
             <strong>
-                Sou Leonardo Amorim de Oliveira, casado e à espera de uma linda menina, Alice. Tenho 27 anos e 9 anos de experiência em engenharia e desenvolvimento de software.<br><br>
+                Sou Leonardo Amorim de Oliveira, casado e pai uma linda menina, Alice. Tenho 27 anos e 10 anos de experiência em engenharia e desenvolvimento de software.<br><br>
                 Atualmente, estou no Grupo Casas Bahia, onde lidero o desenvolvimento da plataforma de dados da companhia.<br><br>
                 Meu fotoco sempre foi o backend e me especializei nessa área em toda a minha carreira, nos últimos 4 anos tenho me dedicado mais a atuar no frontend, devops e recentemente eu me encontrei mentorando e ajudando desenvolvedores em ínicio de carreira.
             </strong>
